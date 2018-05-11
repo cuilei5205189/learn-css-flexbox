@@ -1,0 +1,22 @@
+{
+  "name": "2018-05-11-learn-css-flexbox",
+  "version": "0.0.1",
+  "description": "learn css flexbox",
+  "main": "app.jade",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "css"
+  ],
+  "author": "cuilei",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jade": "^1.1.0"
+  },
+  "devDependencies": {
+    "gulp-connect": "^5.5.0",
+    "gulp-sass": "^4.0.1"
+  }
+}
